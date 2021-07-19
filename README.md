@@ -1,5 +1,7 @@
 # BornHack 2021 DIY Badge
 
+![BornHack 2021 DIY Badge](https://github.com/bornhack/badge2021/raw/main/RENDERS/badge.png "BornHack 2021 DIY Badge")
+
 This badge is a little different than the BornHack badges from previous years, where instead of focusing on writing code that will run on a microprocessor, this badge focuses on the electronics side, and simple electronics components
 
 There are a few things that are prepared on the badge, specifically the Shitty Add On/Simple Add On/SAO standard connector and a place for a Qwiic/Stemma QT connector for interacting with modules in that eco system over I2C.
